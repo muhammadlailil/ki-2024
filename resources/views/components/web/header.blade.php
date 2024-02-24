@@ -6,7 +6,7 @@
 
         <div class="d-flex">
             <button class="btn btn-white" type="submit">
-               Download App
+               Download
             </button>
             <button class="btn btn-warning" type="submit">Login</button>
         </div>
